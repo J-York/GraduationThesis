@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="4cbVk9BduLOSev-ETvPm">
-    <mxGraphModel>
+    <mxGraphModel dx="2308" dy="1143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-1" value="&lt;font&gt;数据源&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="33.25" y="220" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="273" width="306" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-3" value="超级计算机" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="284.5" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-4" value="分布式系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="351.5" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-5" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="415.5" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="305" as="sourcePoint" />
+            <mxPoint x="150" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/031/069/000/non_2x/logs-icon-vector.jpg;" vertex="1" parent="1">
+          <mxGeometry x="159" y="278" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 22px;&quot;&gt;日志数据&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="343.5" width="138" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.732;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191.5" y="388.5" as="sourcePoint" />
+            <mxPoint x="191.48799999999983" y="425.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;专家标注&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="425" width="138" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269.25" y="347" as="sourcePoint" />
+            <mxPoint x="317.25" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-12" value="&lt;font&gt;指令构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="502.75" y="226" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Q: 使用 &amp;lt;*&amp;gt; 将下面的日志中的变量遮罩，使其成为标准模板形式。日志：CE sym 25, at 0x1a, mask 0x40&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;A: CE sym &amp;lt;*&amp;gt;, at &amp;lt;*&amp;gt;, mask &amp;lt;*&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;align=left;fontSize=22;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="273" width="479" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Q: 将下面的日志分类成为正常或者异常。日志：redundant bit streering failed, sequencer timeout&lt;br&gt;A: 异常&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;fontSize=22;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="383" width="480" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Q: 根据下面提供的异常日志，判断错误出现的原因。日志：Task &#39;report_generation&#39; failed with exception: java.lang.OutOfMemoryError: ...&lt;br&gt;A:&amp;nbsp;Java 堆内存不足&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=22;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="490" width="480" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="316.25" y="547" as="sourcePoint" />
+            <mxPoint x="271.25" y="547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/002/589/005/original/cute-llama-wild-animal-line-style-icon-free-vector.jpg;" vertex="1" parent="1">
+          <mxGeometry x="170" y="497" width="83" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;指令微调&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="145" y="580" width="138" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="551" as="sourcePoint" />
+            <mxPoint x="109" y="551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/019/507/876/large_2x/analysis-icon-design-free-vector.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="504" width="73.5" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I8kIcj3TcM5k3Reb0tf7-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;日志分析&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-33.25" y="580" width="138" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
