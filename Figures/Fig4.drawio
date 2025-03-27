@@ -47,13 +47,13 @@
           <mxGeometry x="-78" y="89" width="115" height="56" as="geometry" />
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-18" value="解析结果" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;fillStyle=solid;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-363" y="272" width="115" height="56" as="geometry" />
+          <mxGeometry x="-360" y="222" width="115" height="56" as="geometry" />
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-19" value="&lt;font&gt;检测结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;fillStyle=solid;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-222" y="272" width="115" height="56" as="geometry" />
+          <mxGeometry x="-219" y="222" width="115" height="56" as="geometry" />
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-20" value="&lt;font&gt;诊断结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;fillStyle=solid;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-81" y="272" width="115" height="56" as="geometry" />
+          <mxGeometry x="-78" y="222" width="115" height="56" as="geometry" />
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Helvetica;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,11 +92,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-30" value="&lt;font&gt;分析结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;fillStyle=solid;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="149" y="272" width="188" height="56" as="geometry" />
+          <mxGeometry x="152" y="222" width="188" height="56" as="geometry" />
         </mxCell>
         <mxCell id="I-i7RFHFEAs0DxLh_xhu-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79" y="339" as="sourcePoint" />
+            <mxPoint x="79" y="286" as="sourcePoint" />
             <mxPoint x="79" y="-137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
